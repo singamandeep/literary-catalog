@@ -14,7 +14,7 @@ has_children: false
 > "ਕਿਸੇ ਨਾਲ ਵੈਰ ਰਖਣਾ ਸਾਡੇ ਧਰਸ ਦੇ ਵਿਰੁਧ ਹੈ।ਸਾਡਾ ਧਰਮ ਹੈ ਦਿਲ ਨੂੰ ਸ਼ੀਸ਼ੇ ਵਾਂਗੂ ਸਾਫ਼ ਰਖਣਾ।"
 
 ## Bhai Nand Lal (1633 - 1720)
-![Bhai Lal Nand and Ghyaz Uddin](https://upload.wikimedia.org/wikipedia/commons/c/cc/Bhai_Lal_Nand_and_Ghyaz_Uddin_WL.jpg)
+![Bhai Lal Nand and Ghyaz Uddin](../../../../assets/images/authors/1633-bhai-nand-lal.jpg)
 
 
 ### Languages
